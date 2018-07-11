@@ -1,0 +1,9 @@
+# This is a title
+This is a paragraph. You are reading it.
+On the website, this line break will not result in a new paragraph but a space. In game it will be a new line.
+
+THIS will be a new paragraph on the website and an empty line in game.
+>>>
+In game this will be a new page but on the website just a new paragraph
+IMG https://mspoweruser.com/wp-content/uploads/2018/05/minecraft-aquatic-update-banner.jpeg Minecraft Aquatic Update
+The above will be an image with text under it on the website, and just clickable text [Minecraft Aquatic Update (Click to view)] in MC
